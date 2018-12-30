@@ -32,3 +32,13 @@
 
 
             - `Precision` => `Recall` => `TP / (TP + FN)`
+
+
+## The `Random Forest` Algorithm:
+
+
+    - => an ensemble algorithm based on decision trees
+
+            - creates multiple trees w/ subsets of data
+
+            - can see a big difference between outcome of training vs test data in this example => usually means the algorithm is overfitting 

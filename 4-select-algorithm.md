@@ -21,7 +21,7 @@ https://app.pluralsight.com/player?course=python-understanding-machine-learning&
 
         - `prediction model` => `Supervised machine Learning`
 
-    - Result type categories
+    - Result type `categories`
 
         - `regression`
 
@@ -62,7 +62,7 @@ https://app.pluralsight.com/player?course=python-understanding-machine-learning&
 
         - requires smaller set of data to train
 
-        - simple + fast + stable 
+        - simple + fast + stable
 
     - `Logistic Regression`
 
