@@ -6,7 +6,7 @@
 
           - `two` possible predicted classes: `yes` and `no`
 
-          - The classifier made a total of 231 predictions (e.g., 231 patients were being tested for the presence diabetes).
+          - The classifier made a total of 231 predictions (e.g., 231 patients were being tested for the presence of diabetes).
 
               - the classifier `predicted`:
 
@@ -41,4 +41,4 @@
 
             - creates multiple trees w/ subsets of data
 
-            - can see a big difference between outcome of training vs test data in this example => usually means the algorithm is overfitting 
+            - can see a big difference between outcome of training vs test data in this example => usually means the algorithm is overfitting

@@ -22,7 +22,9 @@ RUN pip install dateparser
 RUN pip install seaborn
 
 # Setting up volumes
-VOLUME [ "/notebooks", "/tmp/tflearn_logs"]
+# VOLUME [ "/notebooks", "/tmp/tflearn_logs"]
+# Note: can't use VOLUME in Dockerfile if/when using bind mounts
+
 
 # jupyter
 EXPOSE 8888
